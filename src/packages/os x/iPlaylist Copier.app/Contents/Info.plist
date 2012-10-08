@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>CFBundleName</key>
+	<string>iPlaylist Copier</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<string>true</string>
+	<key>CFBundleExecutable</key>
+	<string>JavaApplicationStub</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleGetInfoString</key>
+	<string>iPlaylist Copier</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleIconFile</key>
+	<string>iplaylist copier icons.icns</string>
+	<key>Java</key>
+	<dict>
+		<key>MainClass</key>
+		<string>Com.WorldsWorstSoftware.iPlaylistCopier.CLI.CommandLineInterface</string>
+		<key>JVMVersion</key>
+		<string>1.4+</string>
+		<key>ClassPath</key>
+			<array>
+			<string>$JAVAROOT/iPlaylistCopier.jar</string>
+			<string>$JAVAROOT/lib</string>
+			<string>$JAVAROOT/AbsoluteLayout.jar</string>
+			<string>$JAVAROOT/swing-layout-1.0.jar</string>
+			</array>
+	</dict>
+</dict>
+</plist>

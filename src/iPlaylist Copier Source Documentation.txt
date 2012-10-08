@@ -1,0 +1,4 @@
+iPlaylist Copier Source Documentation
+-------------------------------------
+
+iPlaylist Copier has just been released. Jason will be more than glad to flesh out this document and source code documentation, but there is no point in working on the documentation for others unless there is an actual audience. If you are interested in using this source code, then please email jason at jason@onejasonforsale.com and tell him so. He'll probably update the documentation once you notify him :)
