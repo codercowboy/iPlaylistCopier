@@ -72,6 +72,19 @@ Reusable Components:
 * String Replacer [java 1.5 String.replace(String, String) w/ 1.4 code]
 * Performance Timer Utility Class
 
+Credit Where Credit Is Due
+==========================
+
+the ItunesUtilities source code benefits from the following examples, tutorials, or hints:
+
+* [David Flanagen's xml sax parser example code](http://www.oreilly.com/catalog/jenut2/chapter/ch19.html)
+* [Pawe³ Stobiñski's ignore DTD validation code](http://www.velocityreviews.com/forums/t139773-saxparser-ignore-ltdoctypegt-line.html)
+* [gforman and shiva_in's file copying algorithm](http://www.experts-exchange.com/Programming/Programming_Languages/Java/Q_10245809.html)
+* [Roedy Green's encode url code](http://mindprod.com/jgloss/urlencoded.html)
+* [Linux Box Admin's invalid filename characters list](http://linuxboxadmin.com/articles/filefriction.php)
+* [Jay of indyJt's os x iTunes library location hints](http://www.indyjt.com/blog/?p=51)
+* [Roedy Green's java regex special characters list](http://mindprod.com/jgloss/regex.html)
+
 Licensing
 =========
 
