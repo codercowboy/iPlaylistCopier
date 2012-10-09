@@ -75,7 +75,10 @@ Reusable Components:
 Credit Where Credit Is Due
 ==========================
 
-the ItunesUtilities source code benefits from the following examples, tutorials, or hints:
+iPlaylist Copier contains an implementation of [Center Key's Bare Bones Browser Launch](http://www.centerkey.com/java/browser/) code.
+
+
+iPlaylist Copier benefits from the following examples, tutorials, or hints:
 
 * [David Flanagen's xml sax parser example code](http://www.oreilly.com/catalog/jenut2/chapter/ch19.html)
 * [Pawe³ Stobiñski's ignore DTD validation code](http://www.velocityreviews.com/forums/t139773-saxparser-ignore-ltdoctypegt-line.html)
